@@ -9,7 +9,8 @@ body{
 .parent{
     height: 900px;
     width:900px;
-    border :1px solid black;
+    margin-top:50%;
+    border:1px solid black;
     display: flex;
     justify-content: center;
     align-items: center;
